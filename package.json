@@ -1,0 +1,27 @@
+{
+  "name": "myHelloWorld",
+  "version": "0.0.1",
+  "private": true,
+  "description": "a test app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "http-client": "~1.0.0"
+  },
+  "engines": {
+    "node": "0.10.13",
+    "npm": "1.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://code.jd.com/garzonou/jae_urlshortener.git"
+  },
+  "keywords": [
+    "node",
+    "jae"
+  ],
+  "author": "garzon",
+  "license": "MIT"
+}
