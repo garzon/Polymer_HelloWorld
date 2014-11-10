@@ -1,5 +1,5 @@
 {
-  "name": "myHelloWorld",
+  "name": "myHelloWorldWithPolymer",
   "version": "0.0.1",
   "private": true,
   "description": "a test app",
@@ -20,7 +20,7 @@
   },
   "keywords": [
     "node",
-    "jae"
+    "helloworld"
   ],
   "author": "garzon",
   "license": "MIT"
