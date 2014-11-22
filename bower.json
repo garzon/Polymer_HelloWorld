@@ -1,0 +1,22 @@
+{
+  "name": "https://github.com/garzon/Polymer_HelloWorld.git",
+  "version": "0.0.1",
+  "authors": [
+    "garzon <610204679@qq.com>"
+  ],
+  "description": "hello world app",
+  "main": "app.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "node",
+    "polymer",
+    "helloworld"
+  ],
+  "license": "MIT",
+  "homepage": "garzon.tk",
+  "dependencies": {
+    "google-map": "~0.3.2"
+  }
+}
